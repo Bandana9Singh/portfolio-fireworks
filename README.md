@@ -1,5 +1,5 @@
 # portfolio-fireworks
-This is a full stack end to end portfolio project.
+This is a full stack project. It involves creating database to store content, backend to write APIs and frontend project to consume those APIs.
 
 ## Technologies used
 
