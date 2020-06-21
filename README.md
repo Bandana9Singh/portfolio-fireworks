@@ -1,5 +1,5 @@
-# portfolio-fireworks
-This is a full stack project. It involves creating database to store content, backend to write APIs and frontend project to consume those APIs.
+# This is a simple intergration practise of Spring Boot with Mongo DB
+It involves creating database to store content, backend to write APIs.
 
 ## Technologies used
 
@@ -7,7 +7,5 @@ This is a full stack project. It involves creating database to store content, ba
 MongoDB: MongoDB is a popular nosql DB with available connector with spring-boot
 
 ### Backend api
-Spring Boot: Java framework to create backend apis to be consumed by React Application
+Spring Boot: Java framework to create backend apis to be consumed by any front end application.
 
-### Frontend Framework
-React 
